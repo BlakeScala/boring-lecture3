@@ -4,3 +4,7 @@
   font-family: fantasy;
   background-color: #943d4d
 }
+.clickable {
+  background: yellow;
+  border: 2px solid black;
+}
